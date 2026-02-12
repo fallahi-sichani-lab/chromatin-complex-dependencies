@@ -1,4 +1,4 @@
-# chromatin-complex-dependencies
+# chromatin-complex-dependencies-Set1C/COMPASS-melanoma
 
 Custom scripts for analysis and modeling, as described and presented in the manuscript:
 
